@@ -1,0 +1,11 @@
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Models\bin\Debug\net8.0\Cave.Models.deps.json
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Models\bin\Debug\net8.0\Cave.Models.dll
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Models\bin\Debug\net8.0\Cave.Models.pdb
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Models\obj\Debug\net8.0\Cave.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Models\obj\Debug\net8.0\Cave.Models.AssemblyInfoInputs.cache
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Models\obj\Debug\net8.0\Cave.Models.AssemblyInfo.cs
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Models\obj\Debug\net8.0\Cave.Models.csproj.CoreCompileInputs.cache
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Models\obj\Debug\net8.0\Cave.Models.dll
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Models\obj\Debug\net8.0\refint\Cave.Models.dll
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Models\obj\Debug\net8.0\Cave.Models.pdb
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Models\obj\Debug\net8.0\ref\Cave.Models.dll

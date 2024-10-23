@@ -1,0 +1,17 @@
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Data\bin\Debug\net8.0\Cave.Data.deps.json
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Data\bin\Debug\net8.0\Cave.Data.runtimeconfig.json
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Data\bin\Debug\net8.0\Cave.Data.dll
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Data\bin\Debug\net8.0\Cave.Data.pdb
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Data\bin\Debug\net8.0\Cave.Models.dll
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Data\bin\Debug\net8.0\Cave.Models.pdb
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Data\obj\Debug\net8.0\Cave.Data.csproj.AssemblyReference.cache
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Data\obj\Debug\net8.0\Cave.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Data\obj\Debug\net8.0\Cave.Data.AssemblyInfoInputs.cache
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Data\obj\Debug\net8.0\Cave.Data.AssemblyInfo.cs
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Data\obj\Debug\net8.0\Cave.Data.csproj.CoreCompileInputs.cache
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Data\obj\Debug\net8.0\Cave.Data.csproj.Up2Date
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Data\obj\Debug\net8.0\Cave.Data.dll
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Data\obj\Debug\net8.0\refint\Cave.Data.dll
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Data\obj\Debug\net8.0\Cave.Data.pdb
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Data\obj\Debug\net8.0\Cave.Data.genruntimeconfig.cache
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Data\obj\Debug\net8.0\ref\Cave.Data.dll
