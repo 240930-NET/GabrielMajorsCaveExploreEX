@@ -11,12 +11,12 @@ public class Room
     public List<string> ?interactables {get; set;}
 
     public Room(){}
-    public Room(string name, string desc, List<string> ?its)
+    /*public Room(string Name, string Description, List<string> ?interactables)
     {
-        this.Name = name;
-        this.Description = desc;
-        this.interactables = its ?? new List<string>();
-    }
+        this.Name = Name;
+        this.Description = Description;
+        this.interactables = interactables ?? new List<string>();
+    }*/
     public void WriteAppearance()
     {
         /*

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cave.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0438ccd63f5d26eb095c3fa608bfc8b1ff66b920")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cave.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cave.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

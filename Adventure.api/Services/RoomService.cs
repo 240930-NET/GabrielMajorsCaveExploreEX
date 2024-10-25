@@ -39,6 +39,7 @@ public class RoomService : IRoomService {
     public string AddRoom(Room room){
         if (room.Name != null && room.Description != null)
         {
+            _roomRepo.addRoom(room);
             return $"${room.Name} was added to the level.";
         }
         else{

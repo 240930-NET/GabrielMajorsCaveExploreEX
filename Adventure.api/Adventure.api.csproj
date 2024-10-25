@@ -24,7 +24,6 @@
   <ItemGroup>
     <ProjectReference Include="..\Cave.Data\Cave.Data.csproj" />
     <ProjectReference Include="..\Cave.Models\Cave.Models.csproj" />
-    <ProjectReference Include="..\Cave.Tests\Cave.Tests.csproj" />
   </ItemGroup>
 
 </Project>

@@ -9,3 +9,4 @@ C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveEx
 C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Models\obj\Debug\net8.0\refint\Cave.Models.dll
 C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Models\obj\Debug\net8.0\Cave.Models.pdb
 C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Models\obj\Debug\net8.0\ref\Cave.Models.dll
+C:\Users\gmajo\Documents\Programing projects\Revature\Experiments\GabrielMCaveExplorerExp\Cave.Models\obj\Debug\net8.0\Cave.Models.sourcelink.json
